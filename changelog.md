@@ -1,5 +1,12 @@
 # Change log
 
+## [6.1.3] - 2026-04-03
+
+### Fixed
+
+- [issue #533](https://github.com/Bubka/2FAuth/issues/533) Try my luck” feature is currently grayed out
+- Some minor UI glitches
+
 ## [6.1.2] - 2026-03-29
 
 ### Fixed

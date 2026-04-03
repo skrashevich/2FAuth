@@ -58,7 +58,7 @@ return [
     |
     */
 
-    'version' => '6.1.2',
+    'version' => '6.1.3',
     'repository' => 'https://github.com/Bubka/2FAuth',
     'latestReleaseUrl' => 'https://api.github.com/repos/Bubka/2FAuth/releases/latest',
     'installDocUrl' => 'https://docs.2fauth.app/getting-started/installation/self-hosted-server/',
